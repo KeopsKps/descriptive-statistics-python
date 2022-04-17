@@ -12,7 +12,7 @@ To demostrate these concepts in code I will be using the dataset from **Amazon T
 - Year: int
 - Genre: string
 
-This structure of column name and data type help us to determine the descriptive statistics can be applied in the columns
+This structure of column name and data type help us to limit the descriptive statistics that can be applied to especific columns.
 
 ## Central tendency
 
