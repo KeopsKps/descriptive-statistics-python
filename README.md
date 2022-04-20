@@ -16,3 +16,4 @@ This structure of column name and data type help us to limit the descriptive sta
 
 ## Central tendency
 
+The goal is to find the center, the middle point, the "central" tendency of our data. For that purpose we use 3 metrics: the mean, the median and the mode. In this notebook, we learn how to calculate the measures of central tendency in 3 different ways: manually, naive implementation and using Python libraries. 
